@@ -1,6 +1,6 @@
 # Golang Tutorial
 
-[![Build Status](https://travis-ci.org/sqrtxx/golang-tutorial.svg?branch=use-travis-ci)](https://travis-ci.org/sqrtxx/golang-tutorial)
+[![Build Status](https://travis-ci.org/sqrtxx/golang-tutorial.svg?branch=master)](https://travis-ci.org/sqrtxx/golang-tutorial)
 
 ## Main
 
