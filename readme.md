@@ -1,5 +1,7 @@
 # Golang Tutorial
 
+[![Build Status](https://travis-ci.org/sqrtxx/golang-tutorial.svg?branch=master)](https://travis-ci.org/sqrtxx/golang-tutorial)
+
 ## Main
 
 [A Tour of Go](http://tour.golang.org/)
